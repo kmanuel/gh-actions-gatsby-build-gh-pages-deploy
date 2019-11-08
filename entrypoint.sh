@@ -14,4 +14,4 @@ npm install
 echo '=================== Build Gatsby Site ==================='
 npm run build
 echo '=================== Deploy Gatsby Site ==================='
-npm run deploy
+npm run deploy-token
